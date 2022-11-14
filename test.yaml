@@ -1,5 +1,5 @@
 content: This is a test message to handle message routing
-
+ephemeral: false
 components:
   - type: 1
     components:
