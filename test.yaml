@@ -1,24 +1,30 @@
-embeds:
-  - title: Role Selection
-
+content: This is a test message to handle message routing
+ephemeral: false
 components:
   - type: 1
     components:
       - type: 3
-        custom_id: "pick-role"
+        custom_id: pick-msg&708092765665493025
+        min_values: 0
+        max_values: 1
         options:
-          - label: Red
-            value: "1009566098158530571" # red role id
-            description: "Red is a color."
+          - label: channel-backup
+            value: TinkerStorm/.github@project-info-rework#readme/projects/channel-backup.yaml
+            description: A command line tool to help Community Managers keep their information channels updated.
             emoji:
-              name: "🟥"
-          - label: Green
-            value: "1009566340828381184" # green role id
-            description: "Green is a color."
+              name: 💾
+          - label: Color of the Day
+            value: TinkerStorm/.github@project-info-rework#readme/projects/cotd-action.yaml
+            description: A GitHub Action to randomize the color of a role in Discord each time it is called upon.
             emoji:
-              name: "🟩"
-          - label: Blue
-            value: "1009566342560628750" # blue role id
-            description: "Blue is a color."
+              name: 🎨
+          - label: Deception
+            value: TinkerStorm/.github@project-info-rework#readme/projects/deception.yaml
+            description: How well do you know your friends? Who can you trust?
             emoji:
-              name: "🟦"
+              name: 🔪
+          - label: slash-create Docs Bot
+            value: TinkerStorm/.github@project-info-rework#readme/projects/sc-docs-bot.yaml
+            description: A bot built solely using `slash-create` to provide documentation context...
+            emoji:
+              id: "875393771112652840"
