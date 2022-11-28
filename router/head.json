@@ -10,28 +10,28 @@
           "options": [
             {
               "label": "Page A",
-              "value": "sudojunior/test-response@main/router/a.json",
+              "value": "sudojunior/test-response@main#router/a.json",
               "emoji": {
                 "name": "🇦"
               }
             },
             {
               "label": "Page B",
-              "value": "sudojunior/test-response@main/router/b.json",
+              "value": "sudojunior/test-response@main#router/b.json",
               "emoji": {
                 "name": "🇧"
               }
             },
             {
               "label": "Page C",
-              "value": "sudojunior/test-response@main/router/c.json",
+              "value": "sudojunior/test-response@main#router/c.json",
               "emoji": {
                 "name": "🇨"
               }
             },
             {
               "label": "Page D",
-              "value": "sudojunior/test-response@main/router/d.json",
+              "value": "sudojunior/test-response@main#router/d.json",
               "emoji": {
                 "name": "🇩"
               }
