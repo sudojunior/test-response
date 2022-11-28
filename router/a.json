@@ -1,0 +1,10 @@
+{
+  "content": "You selected page A",
+  "embeds": [
+    {
+      "title": "Page A",
+      "color": 1844887
+    }
+  ],
+  "components": null
+}
